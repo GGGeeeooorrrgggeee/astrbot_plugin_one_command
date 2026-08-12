@@ -1,0 +1,50 @@
+{
+  "command_name": {
+    "description": "指令名称",
+    "type": "string",
+    "default": "一个指令",
+    "hint": "只填写名称，不要填写指令前缀。"
+  },
+  "command_prefix": {
+    "description": "指令前缀",
+    "type": "string",
+    "default": "/",
+    "hint": "插件独立前缀，不跟随 AstrBot 全局前缀；留空则使用裸指令。"
+  },
+  "send_type": {
+    "description": "发送类型",
+    "type": "string",
+    "options": [
+      "文本",
+      "图片",
+      "文本+图片"
+    ],
+    "default": "文本"
+  },
+  "text": {
+    "description": "发送文本",
+    "type": "text",
+    "default": "这是一个文本信息。",
+    "hint": "文本模式和文本+图片模式会使用这里的内容。"
+  },
+  "image": {
+    "description": "发送图片",
+    "type": "file",
+    "default": [],
+    "hint": "仅限常用图片格式，只能上传一张；超过一张时不发送图片。",
+    "file_types": [
+      "bmp",
+      "gif",
+      "jpeg",
+      "jpg",
+      "png",
+      "webp"
+    ]
+  },
+  "merge_send": {
+    "description": "合并转发",
+    "type": "bool",
+    "default": false,
+    "hint": "开启后尝试使用 QQ 合并转发；关闭时使用普通消息。"
+  }
+}
