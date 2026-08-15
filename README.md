@@ -25,7 +25,7 @@
 
 ## 一、简介
 
-一个指令是一个面向 [AstrBot](https://github.com/AstrBotDevs/AstrBot) 的轻量插件。
+`一个指令` 是一个面向 [AstrBot](https://github.com/AstrBotDevs/AstrBot) 的轻量插件。
 
 插件提供一个可在配置中修改名称和前缀的唯一指令。用户触发该指令后，插件可以按配置发送文本、图片，或者文本加图片。
 
