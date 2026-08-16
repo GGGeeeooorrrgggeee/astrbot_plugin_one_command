@@ -73,15 +73,9 @@ astrbot_plugin_one_command/
 
 ## 六、安装
 
-1. 将插件目录放入 AstrBot 的插件目录：
-
-```text
-AstrBot/data/plugins/astrbot_plugin_one_command
-```
-
-2. 在 AstrBot WebUI 的插件管理中加载或重载插件。
-3. 在插件配置中按需修改指令前缀、指令名称、发送类型、文本、图片和合并转发开关。
-4. 保存配置后重载插件，或按 AstrBot 当前版本的配置刷新机制生效。
+1. 通过 AstrBot 插件管理使用 zip 压缩包或仓库链接安装。
+2. 在插件配置中按需修改指令前缀、指令名称、发送类型、文本、图片和合并转发开关。
+3. 重载或重启 AstrBot。
 
 ## 七、配置说明
 
