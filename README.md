@@ -8,6 +8,7 @@
   ✨<a href="https://github.com/AstrBotDevs/AstrBot" target="_blank">AstrBot</a> 可配置单指令文本/图片回复插件✨
 </p>
 <p align="center">
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT"></a>
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue" alt="Python Version">
   <img src="https://img.shields.io/badge/Platform-aiocqhttp-lightgrey" alt="Platform">
   <img src="https://img.shields.io/badge/Version-1.0.0-orange" alt="Version">
