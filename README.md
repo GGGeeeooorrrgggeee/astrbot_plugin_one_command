@@ -35,7 +35,7 @@
 ## 二、项目信息
 
 - 作者：[George](https://github.com/GGGeeeooorrrgggeee)
-- 版本：1.0.1
+- 版本：1.2.0
 - 插件名：`astrbot_plugin_one_command`
 - 仓库：[astrbot_plugin_one_command](https://github.com/GGGeeeooorrrgggeee/astrbot_plugin_one_command)
 - 支持平台：`aiocqhttp`
