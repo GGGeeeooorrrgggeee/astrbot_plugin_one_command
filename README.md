@@ -61,6 +61,7 @@ astrbot_plugin_one_command/
 ├── _conf_schema.json    # AstrBot 插件配置项
 ├── metadata.yaml        # 插件元数据
 ├── README.md            # 项目说明文档
+├── LICENSE              # 开源协议
 └── logo.png             # 插件图标
 ```
 
