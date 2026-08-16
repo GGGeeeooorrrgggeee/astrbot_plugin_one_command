@@ -5,7 +5,7 @@
 </p>
 
 <p align="center" style="margin-top: 8px; font-size: 18px;">
-  <a href="https://github.com/AstrBotDevs/AstrBot" target="_blank">AstrBot</a> 可配置单指令文本/图片回复插件
+  ✨<a href="https://github.com/AstrBotDevs/AstrBot" target="_blank">AstrBot</a> 可配置单指令文本/图片回复插件✨
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue" alt="Python Version">
