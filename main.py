@@ -24,7 +24,7 @@ SEND_TYPES = {"文本", "图片", "文本+图片"}
     PLUGIN_NAME,
     "George",
     "可配置一个指令，并发送文本、图片或文本加图片。",
-    "1.2.0",
+    "1.0.1",
     "https://github.com/GGGeeeooorrrgggeee/astrbot_plugin_one_command",
 )
 class OneCommandPlugin(Star):
