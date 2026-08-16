@@ -2,7 +2,7 @@ name: astrbot_plugin_one_command
 display_name: 一个指令
 author: George
 desc: 可配置一个指令，并发送文本、图片或文本加图片。
-version: 1.2.0
+version: 1.0.1
 support_platforms:
   - aiocqhttp
 repo: "https://github.com/GGGeeeooorrrgggeee/astrbot_plugin_one_command"
