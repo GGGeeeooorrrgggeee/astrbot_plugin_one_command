@@ -39,6 +39,7 @@
 - 插件名：`astrbot_plugin_one_command`
 - 仓库：[astrbot_plugin_one_command](https://github.com/GGGeeeooorrrgggeee/astrbot_plugin_one_command)
 - 支持平台：`aiocqhttp`
+- 有问题请联系作者QQ：3467842596
 
 ## 三、核心功能
 
