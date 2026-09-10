@@ -3,13 +3,13 @@
     "description": "指令名称",
     "type": "string",
     "default": "一个指令",
-    "hint": "只填写名称，不要填写指令前缀。"
+    "hint": "只填写名称，不要填写唤醒词。"
   },
   "command_prefix": {
-    "description": "指令前缀",
+    "description": "唤醒词",
     "type": "string",
     "default": "/",
-    "hint": "插件独立前缀，不跟随 AstrBot 全局前缀；留空则使用裸指令。"
+    "hint": "插件独立唤醒词，不跟随 AstrBot 全局唤醒词；留空则使用裸指令。"
   },
   "send_type": {
     "description": "发送类型",
